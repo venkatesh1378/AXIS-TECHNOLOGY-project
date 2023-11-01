@@ -1,0 +1,35 @@
+.firstpage {
+    background: url("/static/images/onee.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.ok {
+    color: aqua;
+    font-family: "Roboto";
+    padding-left: 80px;
+    padding-top: 10px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.forms {
+    color: rgb(243, 248, 248);
+    padding-right: 60px;
+    padding-left: 10px;
+    font-family: 'roboto';
+    font-style: italic;
+    font-size: 22px;
+}
+
+.hello {
+    padding-top: 100px;
+    padding-left: 120px;
+}
+
+.gppp {
+    padding: 70px;
+    background-color: aqua;
+}
+

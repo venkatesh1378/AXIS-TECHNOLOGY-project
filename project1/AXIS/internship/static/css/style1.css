@@ -1,0 +1,23 @@
+        .firstpage {
+            background: url("/static/images/onee.jpg");
+            height: 100vh;
+            width: 100vw;
+            background-size: cover;
+        }
+        
+        .ok {
+            color: aqua;
+            font-family: "Roboto";
+            padding-left: 80px;
+            padding-top: 10px;
+            font-weight: 300;
+            font-size: 18px;
+        }
+        
+        .textinfo {
+            padding-top: 250px;
+            padding-right: 100px;
+            color: aquamarine;
+            font-family: "roboto";
+            font-size: 65px;
+        }
